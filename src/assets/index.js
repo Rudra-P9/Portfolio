@@ -71,7 +71,7 @@ import financialflowimage from "./FinancialFlowDemonstration.png"
 // import enterpriseapitester from "./enterpriseapiui.png"
  
 // Use the stable route; dev/prod redirect to /resume/<basename>
-const resume = "/resume";
+const resume = "/resume/";
 import awsdbcert from "./AWS Database Specialty Certified - Sunny Jayendra Patel.jpg"
 import connectwisecert from "./Connectwise-Scripting-Certification.pdf"
 
