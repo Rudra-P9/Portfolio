@@ -56,8 +56,8 @@ import staples from "./company/staples.png"
 import google from "./company/google.png"
 import whmis from "./company/whmis.png"
 import aws from "./tech/aws.png";
-import microsoft from "./company/microsoft.png";
-import ibm from "./company/ibm.svg";
+import amazon from "./company/amazon.png";
+import exxon from "./company/exxon.png";
 
 import axelotlanding from "./axelotlanding.png"
 import netdashlanding from "./netdashlanding.png"
@@ -141,6 +141,6 @@ export {
   threejs,
   azure,
   staples,
-  microsoft,
-  ibm
+  amazon,
+  exxon
 };

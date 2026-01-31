@@ -53,8 +53,8 @@ import {
   // enterpriseapitester,
   github,
   mongodb,
-  microsoft,
-  ibm,
+  amazon,
+  exxon,
 } from "../assets";
 
 export const navLinks = [
@@ -251,27 +251,27 @@ const experiences = [
   // TODO: Replace these placeholder entries with your actual work experience
   // Use your resume to fill in accurate job titles, companies, dates, and responsibilities
   {
-    title: "Software Engineering Intern",
-    company_name: "Company Name Here",
-    icon: ibm, // TODO: Replace with actual company logo
+    title: "Manager",
+    company_name: "Exxon Gas Station",
+    icon: exxon, // TODO: Replace with actual company logo
     iconBg: "#fff",
-    date: "Month Year - Present",
+    date: "August 2023 - Present",
     points: [
-      "TODO: Add your key responsibilities and achievements",
-      "Example: Developed full-stack features using React and Node.js",
-      "Example: Collaborated with cross-functional teams on agile projects",
+      "Delegated daily operational tasks to staff, ensuring smooth shift transitions and consistent customer satisfaction in a high-traffic environment.",
+      "Streamlined inventory management processes by introducing a new tracking system, reducing stock discrepancies and ensuring timely replenishment of key products.",
+      "Implemented vendor relationship protocols to secure preferred pricing and consistent delivery schedules, supporting cost containment and minimizing supply disruptions for essential inventory items.",
     ],
   },
   {
-    title: "Previous Position",
-    company_name: "Previous Company",
-    icon: microsoft, // TODO: Replace with actual company logo
+    title: "Fulfillment Center Warehouse Associate",
+    company_name: "Amazon",
+    icon: amazon, // TODO: Replace with actual company logo
     iconBg: "#fff",
-    date: "Month Year - Month Year",
+    date: "May 2025 - October 2025",
     points: [
-      "TODO: Add your responsibilities here",
-      "Example: Built responsive web applications",
-      "Example: Implemented CI/CD pipelines",
+      "Optimized order picking and packing processes, achieving 99.9% accuracy rate and processing 400+ orders per shift meeting tight delivery deadlines.",
+      "Implemented efficient inventory handling techniques, reducing item retrieval time by 30%, contributing to a 20% increase in overall daily throughput.",
+      "Enhanced operational efficiency and accuracy in a high volume fulfillment center, ensuring timely and precise order fulfillment.",
     ],
   },
   // Add more experience entries as needed
