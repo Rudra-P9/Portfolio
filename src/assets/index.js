@@ -47,7 +47,7 @@ import cinema4d from "./tech/cinema4d.png"
 // import blender from "./tech/blender.svg"  // unused - not in Tech.jsx
 
 
-import otu from "./company/otu.png"
+import uofsc from "./company/UofSC.png" 
 import rhhs from "./company/rhhs.jpg"
 import wonderland from "./company/wonderland.jpg"
 import mackenziehealth from "./company/mackenziehealth.png"
@@ -96,7 +96,7 @@ export {
   postgresql,
   mongodb,
   aws,
-  otu,
+  uofsc,
   rhhs,
   wonderland,
   mackenziehealth,

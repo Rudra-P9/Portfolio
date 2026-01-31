@@ -12,7 +12,7 @@ import {
   tailwind,
   postgresql,
   // git,   // unused - not in any array
-  otu,
+  uofsc,
   rhhs,
   wonderland,
   mackenziehealth,
@@ -111,13 +111,13 @@ const education = [
   {
     title: "Bachelor of Science in Computer Science",
     company_name: "University of South Carolina, Columbia, SC",
-    icon: otu, // TODO: Replace with USC logo
+    icon: uofsc, // TODO: Replace with USC logo
     iconBg: "#fff",
-    date: "Expected 2026",
+    date: "Expected 2028",
     points: [
       "Pursuing BS in Computer Science",
       "Focus on software development and web technologies",
-      // Add your GPA, honors, or relevant coursework here
+      "GPA: 3.723" // Add your GPA, honors, or relevant coursework here
     ],
   },
   // TODO: Add high school or other educational background if desired
